@@ -31,7 +31,7 @@
                          ;; ... -> [com.google.guava/guava "33.4.0-android"] ->
                          [org.checkerframework/checker-qual "3.48.4"]
 
-                         ;; [yesql "0.5.3"] ->
+                         ;; [yesql "0.5.4"] ->
                          ;; ... -> [clout "2.2.1"] ->
                          [instaparse "1.5.0"]
 
@@ -120,7 +120,7 @@
                  [hikari-cp "3.2.0"]
                  [org.flywaydb/flyway-core "4.2.0"]
                  [org.postgresql/postgresql "42.7.5"]
-                 [yesql "0.5.3"]
+                 [yesql "0.5.4"]
 
                  ;; emails
                  [org.apache.commons/commons-email "1.6.0"]
